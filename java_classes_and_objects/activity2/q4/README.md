@@ -50,3 +50,6 @@ Aakash
 Sample output
 
 Invalid input.
+
+## Company class -> [Company.java](Company.java)
+## CompanyMain -> [CompanyMain.java](CompanyMain.java)
