@@ -54,3 +54,5 @@ Name: Australia
 Scored: 200
 
 Match Ended.
+## Innings class -> [Innings.java](Innings.java)
+## InningsMain class -> [InningsMain.java](InningsMain)
