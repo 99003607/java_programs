@@ -1,6 +1,6 @@
 # 1. Write a Java program to Implement this task.
 
-Create a class Vehicle
+## Create a class Vehicle
 
 Include the following protected data members / attributes:
 
@@ -20,7 +20,7 @@ displayMake – Display the make of the vehicle
 
 "displayBasicInfo" – display basic information of the vehicle. "displayDetailInfo" – An empty method.
 
-Create a class TwoWheeler that extends Vehicle
+## Create a class TwoWheeler that extends Vehicle
 
 Include the following private attributes / data members:
 
@@ -32,7 +32,7 @@ Include appropriate constructors.
 
 "displayDetailInfo" – displays the availability of kick start.
 
-Create a class FourWheeler that extends Vehicle
+## Create a class FourWheeler that extends Vehicle
 
 Include the following private attributes / data members:
 
@@ -46,7 +46,8 @@ Include appropriate constructors.
 
 "displayDetailInfo" - displays the audio system and number of doors.
 
-Include getter setters for all the classes. Create a main class to test the classes defined above.
+Include getter setters for all the classes. 
+## Create a main class to test the classes defined above.
 
 Input and Output Format:
 
@@ -169,7 +170,7 @@ Kick Start Available:YES
 
 # 2. Write a Java program to Implement this task.
 
-Create a class HotelRoom
+## Create a class HotelRoom
 
 Include the following protected data members / attributes: hotelName – of type String
 
@@ -185,7 +186,7 @@ Create a constructor that initializes all the data members public HotelRoom(Stri
 
 "calculateTariff" – Calculates cost using the number of sq feets and cost per sq feet and returns an Integer. "getRatePerSqFeet" - This method returns an Integer. In this case, it always returns 0
 
-Create a class DeluxeRoom that extends HotelRoom
+## Create a class DeluxeRoom that extends HotelRoom
 
 Include the following protected attributes / data members:
 
@@ -197,13 +198,13 @@ Include a constructor that sets ratePerSqFeet as 10. public HotelRoom(String hot
 
 "getRatePerSqFeet" – returns (ratePerSqFeet + 2) if wifi is present, else returns ratePerSqFeet.
 
-Create a class DeluxeACRoom that extends DeluxeRoom
+## Create a class DeluxeACRoom that extends DeluxeRoom
 
 Include the following public methods :
 
 Include a constructor that sets ratePerSqFeet as 12.
 
-Create a class SuiteACRoom that extends HotelRoom
+## Create a class SuiteACRoom that extends HotelRoom
 
 Include the following private attributes / data members:
 
@@ -215,7 +216,7 @@ Include a constructor that sets ratePerSqFeet as 15. public HotelRoom(String hot
 
 getRatePerSqFeet – returns (ratePerSqFeet + 2) if wifi is present, else returns ratePerSqFeet.
 
-Create a Main class to test the above classes.
+## Create a Main class to test the above classes.
 
 Sample Input Output 1:
 
