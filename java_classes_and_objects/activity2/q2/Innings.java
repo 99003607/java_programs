@@ -29,7 +29,7 @@ public class Innings {
 		System.out.println("Name:"+this.getTeamname());
 		System.out.println("Scored:"+this.getRuns());
 		String temp=(this.getInningname());
-		if(temp == "First") 
+		if(temp.equals("First")) 
 		{
 			System.out.println("Need "+(this.getRuns()+1)+" to win");
 		}
